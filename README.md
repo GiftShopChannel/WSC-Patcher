@@ -3,6 +3,8 @@
 WSC-Patcher applies patches to the Wii Shop Channel, such as the ability to use your own servers and certificates.
 This is useful for research and development of services utilizing the WSC.
 
+## This version is not to be used, it has been edited to match what gift shop needs
+
 It is important to read the following so that you will have a usable WAD available upon patch completion.
 
 ## Running
