@@ -23,8 +23,6 @@ prioritize excludelist=0
 [include]
 file:/cnt/*
 https://*.%s/*
-http://*.oscwii.org/*
-https://*.oscwii.org/*
 miip:*
 
 [exclude]
