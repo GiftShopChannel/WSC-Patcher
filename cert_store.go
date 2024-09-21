@@ -32,7 +32,7 @@ func createCertificates() []byte {
 		SignatureAlgorithm: x509.SHA1WithRSA,
 		SerialNumber:       generateSerial(),
 		Subject: pkix.Name{
-			CommonName: "Open Shop Channel CA",
+			CommonName: "Gift Shop Channel CA",
 		},
 		NotBefore:             YearIssueTime,
 		NotAfter:              YearIssueTime.AddDate(10, 0, 0),
